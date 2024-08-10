@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289483304252",
+    "project_id": "newtokweather",
+    "storage_bucket": "newtokweather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289483304252:android:01a684c8498a21e28bc239",
+        "android_client_info": {
+          "package_name": "com.example.newtok_weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8OnlwPPRp1aYhOvz27Vn9mC76dASKbVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
